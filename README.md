@@ -69,7 +69,4 @@ This repository implements a Vision Transformer for classifying images using tri
 ### Visualization
 - Results are visualized to understand the model's learning progress and to ensure it is not overfitting.
 
-\subsection*{Visualization}
-\begin{itemize}
-    \item Results are visualized to understand the model's learning progress and to ensure it is not overfitting.
-\end{itemize}
+
